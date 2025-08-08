@@ -2,7 +2,11 @@
 
 A modern, responsive movie discovery application built with React and Vite, allowing users to search and explore information about their favorite movies.
 
-![React Movie App Preview](public/hero.png)
+![React Movie App Preview](./src/assets/react-movie-app.png)
+
+## 🌐 Live Demo
+
+Visit [React Movie App](https://react-movio.netlify.app/) to see the platform in action!
 
 ## ✨ Features
 
